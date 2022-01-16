@@ -1,0 +1,36 @@
+body, #f1, #f2 {
+    background-color:rgb(192, 175, 154);
+    border-style: outset;
+    text-align: center;
+    font-family: cursive;
+    color:sienna;
+    border-color: rgb(156, 130, 58);
+    border-radius: 2rem;
+    border-width: 0.5rem;
+    
+}
+.title {
+    font-family:monospace;
+    text-align: center;
+    font-size: 46px;
+    color:tan;
+    background-color: rgb(125, 134, 134);
+}
+
+.lasagna {
+    color: teal;
+    
+}
+
+#f1 {
+    text-align: left;
+    color:tomato;
+    font-weight: 700;
+  
+}
+
+#f2 {
+    text-align: right;
+    color: green;
+    font-weight: 900;
+}
